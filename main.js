@@ -64,7 +64,8 @@ const COMMANDS = {
     "Lakshya Agrawal: Aspiring developer with a flair for innovation. Passionate about web and mobile development, data analysis, and making a mark in the tech world.",
   party: "🎉🎉🎉 It's party time!",
   "sudo rm -rf": "Hecker hei bhai",
-  about:"Hii Lakshya here!! checkout help for more valid commands"
+  about:"Hii Lakshya here!! checkout help for more valid commands",
+  lalu:"how do you know my nickname??"
 
 };
 let userInput, terminalOutput;
