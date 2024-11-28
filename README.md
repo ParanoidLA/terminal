@@ -1,2 +1,2 @@
 # portfolio-terminal
-A custom terminal created for my portfolio page! 🥳
+Hii Lakshya here and this is a macOS terminal based website for my potfolio
