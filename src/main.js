@@ -1,6 +1,5 @@
 const COMMANDS = {
  help: `
-Need some guidance? Don't worry, I got you! Here are the commands you can use:
 
   - <span class="code">about</span>:  
     Get to know the genius behind this. Spoiler: It's Lakshya Agrawal.
